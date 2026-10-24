@@ -1,0 +1,8 @@
+<meta>
+	<info author="Dekonpriv" name="Som 3D" description="Chegue perto do objeto para ouvir o barulho" type="script" version="1.0" />
+	<script src="dekonpriv_c.lua" type="client" />
+	<script src="dekonpriv_s.lua" type="server" />
+	<script src="edit.lua" type="shared" />
+	<file src="som.mp3" />
+	
+</meta>
