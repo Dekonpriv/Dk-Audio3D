@@ -45,6 +45,7 @@ Inicialmente, o sistema utiliza uma cadeira como exemplo de objeto sonoro, mas e
 - 📍 Sistema de som 3D posicional.
 - 🪑 Objeto inicial configurado como uma cadeira.
 - 🔄 Possibilidade de substituir a cadeira por outros objetos do MTA:SA.
+- 🔄 Possibilidade de substituir a posição do objeto.
 - 🎵 Possibilidade de substituir o arquivo de áudio utilizado pelo sistema.
 
 ## 📥 Instalação
@@ -57,7 +58,7 @@ Inicialmente, o sistema utiliza uma cadeira como exemplo de objeto sonoro, mas e
 
 ## 🛠️ Personalização
 
-**Alteração do objeto:** modifique o ID do modelo do objeto conforme a estrutura e as configurações existentes no script.
+**Alteração de posição e id de objeto:** modifique o ID do modelo do objeto conforme e sua posição de acordo com sua preferencia no arquivo `edit.lua`.
 
 **Alteração do áudio:** substitua o arquivo de som pelo áudio desejado, mantendo o nome ou atualizando o caminho correspondente no código.
 
